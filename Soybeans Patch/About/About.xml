@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+
+	<name>Soybeans Patch</name>
+	<author>Mr.Patch Maker</author>
+	<packageId>mrpatchmaker.soybeanspatch</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>This is my patch for the Soybeans mod.</description>
+	<modDependenciesByVersion>
+		<v1.5>
+		<li>
+			<packageId>penultimatejive.soybeans</packageId>
+			<displayName>Soybeans</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=932373937</steamWorkshopUrl>
+		</li>
+		</v1.5>
+	</modDependenciesByVersion>
+	
+</ModMetaData>

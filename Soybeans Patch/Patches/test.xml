@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+	This is a comment, nothing here will affect the code
+	KEY:
+		JLDrzbPQzy = Soybean Plant
+-->
+
+<Patch>
+	
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThingDef[defName="JLDrzbPQzy"]</xpath>
+		<match Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName="JLDrzbPQzy"]/plant/growDays</xpath>
+			<value>
+				<growDays>10</growDays>
+			</value>
+		</match>
+	</Operation>
+		
+</Patch>
