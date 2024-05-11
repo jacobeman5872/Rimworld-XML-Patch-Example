@@ -13,7 +13,7 @@
 		<match Class="PatchOperationReplace">
 			<xpath>Defs/ThingDef[defName="JLDrzbPQzy"]/plant/growDays</xpath>
 			<value>
-				<growDays>10</growDays>
+				<growDays>2.14</growDays>
 			</value>
 		</match>
 	</Operation>
